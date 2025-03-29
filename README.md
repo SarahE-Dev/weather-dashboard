@@ -34,7 +34,7 @@ Check out the live application [here](https://weather-dashboard-six-iota.vercel.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/purple-weather-dashboard.git
+git clone https://github.com/SarahE-Dev/weather-dashboard.git
 cd purple-weather-dashboard
 ```
 
