@@ -2,7 +2,7 @@
 
 A beautiful, responsive weather dashboard application built with Next.js and Tailwind CSS.
 
-![Purple Weather Dashboard](weather.png)
+![Purple Weather Dashboard](./public/weather.png)
 
 ## Features
 
