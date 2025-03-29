@@ -4,6 +4,8 @@ A beautiful, responsive weather dashboard application built with Next.js and Tai
 
 ![Purple Weather Dashboard](./public/weather.png)
 
+Check out the live application [here](https://weather-dashboard-six-iota.vercel.app/).
+
 ## Features
 
 - 🌤️ Real-time weather data display
