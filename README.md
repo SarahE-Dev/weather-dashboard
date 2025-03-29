@@ -35,7 +35,7 @@ Check out the live application [here](https://weather-dashboard-six-iota.vercel.
 
 ```bash
 git clone https://github.com/SarahE-Dev/weather-dashboard.git
-cd purple-weather-dashboard
+cd weather-dashboard
 ```
 
 2. Install dependencies:
